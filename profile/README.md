@@ -1,4 +1,4 @@
-# FACT Finder Web Components 🚀
+# FactFinder Web Components 🚀
 
 ### Integrating FactFinder has never been easier
 
