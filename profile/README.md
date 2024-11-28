@@ -2,7 +2,8 @@
 
 ### Integrating FactFinder has never been easier
 
-As of now, FactFinder can be integrated into your online shop as easy as a YouTube video or a Google map – by means of prefabricated HTML elements, so called Web Components.
+FactFinder can be integrated easily into your online shop by means of prefabricated HTML elements, so called Web Components.
+These Web Components offer fully functional features such as searching, suggestions, filtering, sorting, and many more.
 This enables you to gain the ROI of FactFinder even faster.
 Web Components display the FactFinder functions directly in the browser (**compatible with all major browsers**) and can be arranged according to the look and feel of your online shop. 
 In addition, they are functional regardless of the shop system and web technologies that you are using.
