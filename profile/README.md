@@ -29,8 +29,8 @@ We are constantly updating the SDKs so that you can use the latest versions of t
 
 #### Oxid Module
 
-- [SDK v4.x](https://github.com/FACT-Finder-Web-Components/oxid-eshop-module) &rarr; Web Components v4.x, Oxid v6
+- [SDK v4.x](https://github.com/FACT-Finder-Web-Components/oxid-eshop-module/tree/release/4.x) &rarr; Web Components v4.x, Oxid v6
 - [SDK v5.x](https://github.com/FACT-Finder-Web-Components/oxid-eshop-module/tree/release/5.x) &rarr; Web Components v4.x, Oxid v7
-- SDK v6.x &rarr; Web Components v5.x, Oxid v7 (coming soon, work in progress)
+- [SDK v6.x](https://github.com/FACT-Finder-Web-Components/oxid-eshop-module/tree/release/6.x) &rarr; Web Components v5.x, Oxid v7
 
 
