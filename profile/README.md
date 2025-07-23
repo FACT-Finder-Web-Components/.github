@@ -23,13 +23,12 @@ We are constantly updating the SDKs so that you can use the latest versions of t
 
 #### Shopware6 Plugin
 
-- [SDK v4.x](https://github.com/FACT-Finder-Web-Components/shopware6-plugin/tree/release/4.x) &rarr; Web Components v4.x, Shopware v6.4
 - [SDK v5.x](https://github.com/FACT-Finder-Web-Components/shopware6-plugin/tree/release/5.x) &rarr; Web Components v4.x, Shopware v6.5
 - [SDK v6.x](https://github.com/FACT-Finder-Web-Components/shopware6-plugin/tree/release/6.x) &rarr; Web Components v5.x, Shopware v6.6
+- [SDK v7.x](https://github.com/FACT-Finder-Web-Components/shopware6-plugin/tree/release/7.x) &rarr; Web Components v5.x, Shopware v6.7
 
 #### Oxid Module
 
-- [SDK v4.x](https://github.com/FACT-Finder-Web-Components/oxid-eshop-module/tree/release/4.x) &rarr; Web Components v4.x, Oxid v6
 - [SDK v5.x](https://github.com/FACT-Finder-Web-Components/oxid-eshop-module/tree/release/5.x) &rarr; Web Components v4.x, Oxid v7
 - [SDK v6.x](https://github.com/FACT-Finder-Web-Components/oxid-eshop-module/tree/release/6.x) &rarr; Web Components v5.x, Oxid v7
 
